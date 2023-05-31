@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'app-service-demo-kohta'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D3D739322E87488380C31348F7D5B0FF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C10570B9D7414BCDA9305699EBCC2495 }}
           package: .
